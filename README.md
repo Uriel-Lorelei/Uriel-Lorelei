@@ -1,15 +1,8 @@
-(⁠๑⁠♡⁠⌓⁠♡⁠๑⁠)
- 
- Hi!!!
- I'm @Uriel-Lorelei   
+Hello!!
 
- (⁠ꏿ⁠﹏⁠ꏿ⁠;⁠) 
- currently learning how to do code
- starting from Python.
-
- ＼⁠(⁠^⁠o⁠^⁠)⁠／
- I would gladly appreciate your advice!
- 
+I lovE doing things.
+Decent at python.
+Can use Linux (I use arch btw)
 
 <!---
 Uriel-Lorelei/Uriel-Lorelei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
